@@ -1,4 +1,1 @@
-# counties-of-kenye
-# counties-of-kenyt
-
-.
+# counties-of-kenya
